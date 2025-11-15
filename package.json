@@ -1,0 +1,8 @@
+{
+  "name": "etsy-search",
+  "version": "0.0.1",
+  "type": "module",
+  "license": "MIT",
+  "main": "index.js",
+  "packageManager": "yarn@4.11.0"
+}
